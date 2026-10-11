@@ -12,7 +12,7 @@ const CONFIG = {
   formEndpoint: '',
 
   /* Запасной канал, если formEndpoint пустой */
-  telegram: 'okales',            // t.me/<...> без «@»
+  telegram: 'ZakazOkales',            // t.me/<...> без «@»
   whatsapp: '79165936232',        // только цифры
 
   /* Прайс. Всё в рублях. */
