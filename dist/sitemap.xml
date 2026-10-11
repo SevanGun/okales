@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.okales.ru/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/hero.jpg</image:loc>
+        <image:title>Напольное зеркало Еиналеж из массива дуба в светлой гостиной</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/bedroom.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в минималистичной спальне</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/dressing.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в гардеробной с мрамором</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/loft.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в лофте</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/castle.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в тёмном готическом интерьере</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/classic.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в классическом холле</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/kids-bunk.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в детской с двухъярусной кроватью</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/kids-play.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в детской игровой комнате</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/kids-pink.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в детской спальне</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/interior/kids-boy.jpg</image:loc>
+        <image:title>Зеркало Еиналеж в светлой детской комнате</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/production/carving.jpg</image:loc>
+        <image:title>Ручная резьба и готическая надпись на фронтоне зеркала Еиналеж</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.okales.ru/assets/production/workshop.jpg</image:loc>
+        <image:title>Зеркало Еиналеж на производстве ОКАЛЕС</image:title>
+      </image:image>
+  </url>
+</urlset>
