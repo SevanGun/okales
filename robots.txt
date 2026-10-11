@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Disallow: /privacy.html
+Disallow: /404.html
+Disallow: /preview.html
+
+# Метки рекламных кампаний не должны плодить дубли страницы
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&yclid&gclid&_openstat&from&roistat
+
+Sitemap: https://www.okales.ru/sitemap.xml
